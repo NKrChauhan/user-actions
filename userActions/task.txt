@@ -1,0 +1,4 @@
+Client can only create a task
+Manager can only delete and assign the task to the Employee
+Employee can only complete the task. And of course, login/logout using JWT token
+Deliverable: Code with MySQL database, instructions to install on reviewer's system
